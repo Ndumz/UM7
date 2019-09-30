@@ -1,0 +1,26 @@
+
+*** These modified files were found in JOE when it aborted on Fri Jul 26 16:42:29 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+b
+k
+
+*** File '(Unnamed)'
+Image.cpp
+Image.cpp
+i
+Image.cpp
+Image.cpp
+makefile
+sniffer.h
+sniffer.h
+Makefile
+main.c
+main.c
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
